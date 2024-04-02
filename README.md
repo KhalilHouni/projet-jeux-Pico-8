@@ -2,7 +2,7 @@
 # Pico-8 Games Project
 
 Welcome to the repository for Piko Adventure and Cool Space, two small retro-style games developed using the Pico-8 game engine. Piko Adventure is a Zelda-inspired adventure game where you must save the kingdom from an evil plant, while Cool Space puts you in control of a spaceship battling alien invaders.
-This is my first Project and as such there are not many commit (still learning !)
+This is my first Project and as such there are not many commits (still learning !)
 
 
 
